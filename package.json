@@ -1,0 +1,26 @@
+{
+  "name": "finding-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravit27-N/finding-job.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "14.x"
+  },
+  "bugs": {
+    "url": "https://github.com/Ravit27-N/finding-job/issues"
+  },
+  "homepage": "https://github.com/Ravit27-N/finding-job#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
